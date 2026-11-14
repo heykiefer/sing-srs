@@ -3610,6 +3610,7 @@
         "public.komiic.com",
         "public.linear.app",
         "public.mocortech.com",
+        "public.popclip.app",
         "public.saasexch.com",
         "public.zoorix.com",
         "publicsuffix.org",
