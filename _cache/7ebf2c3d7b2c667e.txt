@@ -5432,7 +5432,6 @@
         "foundationdns.net",
         "foundationdns.org",
         "fourhoi.com",
-        "frame.claudeusercontent.com",
         "framercdn.com",
         "framerstatic.com",
         "framerusercontent.com",
